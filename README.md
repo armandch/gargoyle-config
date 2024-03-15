@@ -1,7 +1,7 @@
 # Overview
 This is my configuration for Gargoyle interpreter.
 
-My personal user space config location on macOS is:
+My prefered user space config location on macOS is:
 - Config: `~/.garglkrc`
 - Theme: `~/Library/Application Support/io.github.garglk/Gargoyle/themes/*.json`
 
