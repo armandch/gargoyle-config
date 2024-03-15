@@ -1,0 +1,28 @@
+{
+    "name": "macOS Darkmode",
+    "window": "#191919",
+    "border": "#adadad",
+    "caret": "#adadad",
+    "link": "#000060",
+    "more": "#adadad",
+    "scrollbar": {
+        "fg": "#c0c0b0",
+        "bg": "#606060"
+    },
+    "text_buffer": {
+        "default": {
+            "fg": "#adadad",
+            "bg": "#191919"
+        },
+        "input": {
+            "fg": "#adadad",
+            "bg": "#191919"
+        }
+    },
+    "text_grid": {
+        "default": {
+            "fg": "#282828",
+            "bg": "#adadad"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Classic Monochrome Green",
+    "window": "#282828",
+    "border": "#33ff00",
+    "caret": "#33ff00",
+    "link": "#33ff00",
+    "more": "#33ff00",
+    "scrollbar": {
+        "fg": "#808080",
+        "bg": "#b0b0b0"
+    },
+    "text_buffer": {
+        "default": {
+            "fg": "#33ff00",
+            "bg": "#282828"
+        },
+        "input": {
+            "fg": "#33ff00",
+            "bg": "#282828"
+        }
+    },
+    "text_grid": {
+        "default": {
+            "fg": "#33ff00",
+            "bg": "#282828"
+        }
+    }
+}

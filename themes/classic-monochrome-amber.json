@@ -1,0 +1,28 @@
+{
+    "name": "Classic Monochrome Amber",
+    "window": "#282828",
+    "border": "#ffb000",
+    "caret": "#ffb000",
+    "link": "#ffb000",
+    "more": "#ffb000",
+    "scrollbar": {
+        "fg": "#808080",
+        "bg": "#b0b0b0"
+    },
+    "text_buffer": {
+        "default": {
+            "fg": "#ffb000",
+            "bg": "#282828"
+        },
+        "input": {
+            "fg": "#ffb000",
+            "bg": "#282828"
+        }
+    },
+    "text_grid": {
+        "default": {
+            "fg": "#ffb000",
+            "bg": "#282828"
+        }
+    }
+}
